@@ -1,0 +1,14 @@
+﻿  AdjacencyMatrix.cpp
+  DijkstraAlgorithmBackend.cpp
+C:\Users\Andu\Documents\Buc\Programare Paralela\Proiect hypercub\Dijkstra-MPI-master\Dijkstra\DijkstraCommon\DijkstraAlgorithmBackend.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+  ResultsPrinter.cpp
+C:\Users\Andu\Documents\Buc\Programare Paralela\Proiect hypercub\Dijkstra-MPI-master\Dijkstra\DijkstraCommon\ResultsPrinter.cpp(6,20): warning C4018: '<': signed/unsigned mismatch
+  Validator.cpp
+  DijkstraMPI.cpp
+  DijkstraMPISetup.cpp
+  main.cpp
+  Afisare.cpp
+C:\Users\Andu\Documents\Buc\Programare Paralela\Proiect hypercub\SourceCode 2000 serial\MpiLab\Afisare.cpp(64,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+AdjacencyMatrix.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  MpiLab.vcxproj -> C:\Users\Andu\Documents\Buc\Programare Paralela\Proiect hypercub\SourceCode 2000 serial\Debug\MpiLab.exe
